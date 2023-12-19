@@ -37,7 +37,7 @@ const Projects = () => {
                         {/* hover effects */}
                         <div className="opacity-0 group-hover:opacity-100">
                             <span className="text-2xl font bold text-white tracking-wider">
-                                Animation Project
+                                Anime Database Project
                             </span>
                             <div>
                                 <a href="https://yicpersonalaniweb.netlify.app">
@@ -56,7 +56,7 @@ const Projects = () => {
                         {/* hover effects */}
                         <div className="opacity-0 group-hover:opacity-100">
                             <span className="text-2xl font-bold text-white tracking-wider">
-                                Animation Project
+                                Web Jornal Project
                             </span>
                             <div>
                                 <a href="https://lostarkjour.netlify.app">
